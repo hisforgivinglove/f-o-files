@@ -1,0 +1,8 @@
+{
+  "name": "Bronze Token",
+  "description": "Raffle entry token — Bronze Tier",
+  "image": "https://hisforgivinglove.s3.us-east-1.amazonaws.com/FO-SI-Greater-Ai.png",
+  "attributes": [
+    { "trait_type": "Tier", "value": "Bronze" }
+  ]
+}
